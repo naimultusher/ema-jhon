@@ -2,8 +2,8 @@
     background: rgba(255, 153, 0, 0.3);
     padding: 25px;
     height: 100vb;
-    position: fixed;
-    right: 0;
+    position: sticky;
+    top: 0;
 }
 
 .cart p {
