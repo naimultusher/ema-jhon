@@ -1,0 +1,44 @@
+.cart {
+    background: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    height: 100vb;
+    position: fixed;
+    right: 0;
+}
+
+.cart p {
+    font-size: 17px;
+}
+
+.grand-total {
+    /* font-family: 'Lato'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+}
+
+.clear-cart {
+    background: #FF3030;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 17px;
+    color: #FFFFFF;
+    width: 100%;
+    height: 48px;
+    border: none;
+    margin-bottom: 16px;
+}
+
+.review-order {
+    background: #FF9900;
+    border-radius: 4px;
+    width: 100%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #FFFFFF;
+}
